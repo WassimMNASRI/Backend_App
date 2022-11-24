@@ -9,7 +9,7 @@ These instructions allow you to run a copy of the project locally on your workst
 
 ### Prerequisites
 
-To run the ToDo-List-Project project locally, you must first install:
+To run the Back-end APP project locally, you must first install:
 
 ```
 To define
